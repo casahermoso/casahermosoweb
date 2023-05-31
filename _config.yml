@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Casa Hermoso"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Miguel Hermoso"
+name                     : "Casa Hermoso"
 description              : "Casa Hermoso website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Miguel Hermoso"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "🧬Earth Being 🔭Father^3 🙋‍♂️Husband to Fire Goddess @lavidahermoso Multidimensional Consciousness Explorer 🌱🧘🤖 #easeofliving"
+  location         : "El Valle de Anton"
   email            :
   links:
     - label: "Email"
