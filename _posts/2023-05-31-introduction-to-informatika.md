@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "Introduction to Informatika"
 header:
   teaser: "https://es.wikipedia.org/wiki/Inform%C3%A1tica#/media/Archivo:Intel_mainboard_DX58SO_IMGP5949_wp_wp.jpg"
