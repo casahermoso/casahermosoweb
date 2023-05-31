@@ -1,8 +1,9 @@
 ---
-layout: splash
+layout: single
 toc: true
 toc_sticky: true
 classes:
+  - wide
   - landing
   - dark-theme
 title:  "Introduction to Informatika"
