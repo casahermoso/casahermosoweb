@@ -4,10 +4,6 @@ title: "About"
 excerpt: "Casa Hermoso is a unique family house dedicated to fostering education."
 last_modified_at: 2023-05-30T20:15:26-04:00
 toc: true
-layout: splash
-classes:
-  - landing
-  - dark-theme
 ---
 
 ## About Casa Hermoso:
