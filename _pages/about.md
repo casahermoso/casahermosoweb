@@ -1,85 +1,32 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+excerpt: "Casa Hermoso is a unique family house dedicated to fostering education."
+last_modified_at: 2023-05-30T20:15:26-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+##About Casa Hermoso:
+Nestled amidst the breathtaking mountains of the cloud rainforest in the heart of the Americas, Panama, Casa Hermoso is a unique family house dedicated to fostering education, community engagement, and holistic growth. Our mission is to provide a nurturing environment for our three children while actively promoting learning in the areas of STEAM (Science, Technology, Engineering, Arts, and Mathematics), spirituality, and sports. We believe that by embracing these core pillars, we can empower not only our own family but also the surrounding community.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+##Our Vision:
+At Casa Hermoso, we envision a world where knowledge, creativity, and physical well-being thrive in harmony with nature. Through our Patreon platform, we invite you to be a part of this vision and contribute to the transformative journey we are undertaking.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+##Education:
+Education lies at the heart of our endeavors. We are committed to providing our children with a comprehensive STEAM-focused curriculum that nurtures their intellectual curiosity, critical thinking skills, and problem-solving abilities. By supporting Casa Hermoso on Patreon, you will directly contribute to the development of our educational initiatives, ensuring our children receive a well-rounded education.
 
-## Notable Features
+##Community Engagement:
+Casa Hermoso is not just a private abode; it is a vibrant hub that seeks to uplift the surrounding community. We strive to create opportunities for individuals in the vicinity to gain exposure to STEAM education, spirituality, and sports. Your support on Patreon will enable us to organize workshops, seminars, and community events, fostering a sense of belonging and empowering individuals to unlock their potential.
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+##STEAM:
+We believe that STEAM education holds the key to unlocking a future of boundless possibilities. By integrating science, technology, engineering, arts, and mathematics into our educational framework, we aim to equip our children and the local community with the skills and knowledge needed to thrive in a rapidly evolving world. Your contribution on Patreon will directly support the acquisition of educational resources, tools, and equipment necessary to foster STEAM learning.
 
-## Demo Pages
+##Spirituality:
+At Casa Hermoso, we recognize the importance of nurturing the spirit and promoting inner growth. We embrace spirituality as an integral part of our family life, exploring various traditions, mindfulness practices, and philosophical teachings. With your support, we can continue to delve deeper into these spiritual practices and share our insights with the wider community through workshops and discussions.
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+##Sports:
+Physical well-being and sports play a crucial role in our family's lifestyle. We encourage our children and the local community to engage in sports activities that promote teamwork, discipline, and a healthy lifestyle. Your patronage will help us create sports programs, provide equipment, and maintain facilities, allowing individuals to enjoy the benefits of regular exercise and competitive sports.
 
 ---
 
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Casa Hermoso is designed, developed, and maintained by Miguel Hermoso. A devoted father from El Valle de Anton, Panama.
